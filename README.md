@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**Hellrespawn/Hellrespawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Stef Korporaal. I am currently a student of Software Development at the [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com)' [Faculty of Digital Media and Creative Industries](https://www.amsterdamuas.com/faculty/fdmci/faculty-of-digital-media-and-creative-industries.html), the fruits of which you are reading this on.
 
-Here are some ideas to get you started:
+My goal is not just to improve what programming skills I already have, but to learn what programming as part of team is like and to how to contribute to creating a product for someone else instead of just myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previous experience includes:
+- Bash/Shell Scripting
+- Python 🐍
+- Rust 🦀
+
+Right now, I'm working on:
+- Modern HTML5 and CSS
+- TypeScript
+- SCRUM 🏉
